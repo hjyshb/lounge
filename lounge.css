@@ -35,6 +35,7 @@
   text-align: center;
   line-height: normal;
   margin-top: 30px;
+  float:right;
 }
 #elixirs h2{
   color: black;
